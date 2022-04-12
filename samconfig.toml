@@ -1,0 +1,10 @@
+version = 0.1
+[default]
+[default.deploy]
+[default.deploy.parameters]
+stack_name = "EmployeePoc"
+s3_bucket = "aws-sam-cli-managed-default-samclisourcebucket-1t1at4a3ryc5f"
+s3_prefix = "EmployeePoc"
+region = "us-east-1"
+capabilities = "CAPABILITY_IAM"
+image_repositories = []

@@ -1,0 +1,23 @@
+{
+    "firstName": "Satish",
+    "lastName": "Kumar",
+    "designation": "Software Engineer",
+    "qualification": [
+      {
+        "course": "PhD in Applied Science and Engineering",
+        "marks": 550
+      },
+      {
+        "course": "MBA in Finance",
+        "marks": 546
+      },
+      {
+        "course": "Post Graduate Programme Diploma",
+        "marks": 658
+      },
+      {
+        "course": "Bachelor's degrees in physics, chemistry and mathe",
+        "marks": 485
+      }
+    ]
+}
