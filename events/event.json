@@ -1,23 +1,3 @@
 {
-    "firstName": "Satish",
-    "lastName": "Kumar",
-    "designation": "Software Engineer",
-    "qualification": [
-      {
-        "course": "PhD in Applied Science and Engineering",
-        "marks": 550
-      },
-      {
-        "course": "MBA in Finance",
-        "marks": 546
-      },
-      {
-        "course": "Post Graduate Programme Diploma",
-        "marks": 658
-      },
-      {
-        "course": "Bachelor's degrees in physics, chemistry and mathe",
-        "marks": 485
-      }
-    ]
+  "token": "eyJraWQiOiIxMUc3UUQzdDg4eUpla21acFdVTll4a2l3MnlGTGRlMEl5dXZDT2s2clhZPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiI1YzYxOGQ4Mi1jMzgxLTQ5OWMtODc4Ni1iMTIxYzk4NzYxMTMiLCJ0b2tlbl91c2UiOiJhY2Nlc3MiLCJzY29wZSI6Im9wZW5pZCIsImF1dGhfdGltZSI6MTY0OTg1NjIzOSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLnVzLWVhc3QtMS5hbWF6b25hd3MuY29tXC91cy1lYXN0LTFfMkl2YmZZU2UwIiwiZXhwIjoxNjQ5OTQyNjM5LCJpYXQiOjE2NDk4NTYyNDAsInZlcnNpb24iOjIsImp0aSI6IjZlNjk2MzUyLTVhZjItNDUxNC05NjQ4LTM2YTY2YzUwNzE4YSIsImNsaWVudF9pZCI6IjEwZmw1MnQ0N2d2dXNkMzlvdmduYWI0bjAyIiwidXNlcm5hbWUiOiJzYXRpc2gifQ.FEnD32inSrk0_cBxxmLzkZxLIeQ2R5Fo92ZaVnp8tUeKbHW47GzyU1drUjzaFGPWCNY4paql9yReW7Qx1VYj1MJSr8uH-Wa7wiHrQooUOErbBQNsdFOiBAT2Ryi4wB86TbnnAhfYqLDDGZF-jVVcREXvgscLKwBEA5kYcKMZPDrKApjpNwxeqF2JNZeor8rm2ewF3qSh-51baX9xL6H60xifzN3nUFudFmEG76pQaaZC0q9Phldw7DBgPZMFoW0RJUHN0XC990V9HTpZDWbjTBykryFweG6ya4wetM1vpIzVt9ARlVVleXP2BZCz1zAgFgbhKZVpuWdUQsYl3L0Ytw"
 }
